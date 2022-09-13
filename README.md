@@ -1,6 +1,6 @@
-Hi! Im Niklas, a recent finance graduate that is interested in financial mathematics.
+Hi! Im Niklas, a quantitative research analyst that is interested in systematic trading and investing.
 
-I want to use this Git to share personal projects that i use to help with my financial markets exposure. 
-You can expect things like trading support/risk management tools or stock screeners. 
+So far I have mainly uploaded small projects with ugly code. 
+As my programming experience level increases the quality of this code will too.
 
-The code is not perfect, but it does what i need it to do <3
+I am planning on working on a event driven backtester and an implementation for live trading.
