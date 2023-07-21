@@ -1,4 +1,4 @@
 Hi! Im Niklas, a quantitative research analyst that is interested in systematic trading and investing.
 
-systematic equities \n
-factor investing \n
+systematic equities  
+factor investing  
